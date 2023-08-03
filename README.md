@@ -1,1 +1,1 @@
-# an-android-application-for-keeping-up-with-the-latest-headlines
+# An-Android-Application-For-Keeping-Up-With-The-Latest-Headlines
